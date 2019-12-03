@@ -133,6 +133,7 @@ namespace NinjaSpaghetti
 
         public Game1()
         {
+            //Proviamo
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             //Resolution
